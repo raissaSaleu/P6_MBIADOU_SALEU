@@ -14,12 +14,12 @@ Source des données : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/pr
 ## Mission
 
 Réaliser une première étude de faisabilité d'un moteur de classification d'articles, basé sur une image et une description, pour l'automatisation de l'attribution de la catégorie de l'article.
-   - Manipulation de données textuelles, applications des techniques de NLP pour prétraitement des données textuelles : stopwords, lemmatisation / stemming, TF IDF / bag of words
-   - Réduction de dimension par LDA / NMF
-   - Prétraitement d'images et Extraction de features (SIFT)
+   - Manipulation de données textuelles, applications des **techniques de NLP pour prétraitement des données textuelles : stopwords, lemmatisation / stemming, TF IDF / bag of words**
+   - Réduction de dimension par **LDA / NMF**
+   - Prétraitement d'images et Extraction de features (**SIFT**)
    - Classification non supervisée
    - Construction d'un réseau de neurone
-   - Transfer learning sur modèle imagenet
+   - **Transfer learning** sur modèle imagenet
    - Mise en place d'une application de visualition dynamique
 
 ## Compétences évaluées
